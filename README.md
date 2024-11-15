@@ -16,9 +16,9 @@ Realizar una librería llamada *"MPU6050"* para el módulo MPU6050 que contenga 
 * *MPU6050_AcelX()*: Esta función proporcionará la componente X del acelerómetro.
 * *MPU6050_AcelY()*: Esta función proporcionará la componente Y del acelerómetro.
 * *MPU6050_AcelZ()*: Esta función proporcionará la componente Z del acelerómetro.
-* *MPU6050_GiroX()*: Esta función proporcionará la componente X del giroscopio.
-* *MPU6050_GiroY()*: Esta función proporcionará la componente Y del giroscopio.
-* *MPU6050_GiroZ()*: Esta función proporcionará la componente Z del giroscopio.
+* *MPU6050_GiroX()*: Esta función proporcionará la componente X del giróscopo.
+* *MPU6050_GiroY()*: Esta función proporcionará la componente Y del giróscopo.
+* *MPU6050_GiroZ()*: Esta función proporcionará la componente Z del giróscopo.
 * *MPU6050_Temp()*: Esta función devolverá el valor de temperatura en grados Celcius.
 
 Además deberán realizar una solucion programable en la que, al pasar el umbral que se especifica al final de la consigna se deberán encender diferentes leds (tres en total) en los que se indique si se paso ese umbral (encendido) o no (apagado) para saber si un objeto fue inclinado.
