@@ -35,5 +35,4 @@ Al finalizar la clase (a eso de las 17hs), se habilitará el uso de internet par
 * Utilizar *define* para todos los comandos, modos y/o pines utilizados, especificando en su nombre lo que hace y siempre en mayúscula.
 * Cada función valdrá medio punto. Los puntos restantes los darán la prolijidad y su habilidad para programar, además del código de ejemplo.
 * Librería que esté completamente desordenada penalizará puntos, por lo que podría ser causante de desaprobación.
-* 
 * Si las compus llegan a tener Windows 7 descargar el siguiente VSCode: https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable 
